@@ -72,3 +72,18 @@ npm run lint
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Performance Optimization with PageSpeed Insights
+
+As part of optimizing the performance of this website, I used Google PageSpeed Insights to analyze and improve the loading speed and overall user experience. Key optimizations include:
+
+- [List specific improvements, e.g., image compression, lazy loading, etc.]
+- [Any score improvements or targets achieved]
+
+To check the website's performance metrics, you can visit the [PageSpeed Insights link](https://pagespeed.web.dev/analysis/https-front-end-project-eight-ivory-vercel-app/cysplilm83?form_factor=desktop).
+
+
+![image](https://github.com/user-attachments/assets/5543d4eb-9b70-4241-824b-434eddf9fcd5)
+![image](https://github.com/user-attachments/assets/d4e79b01-7431-485c-9ea1-c77101787372)
+
+
