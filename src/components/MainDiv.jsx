@@ -24,7 +24,7 @@ const MainDiv = () => {
       {/* Right and Left Sections */}
       <div className="h-full w-full flex justify-between ">
         {/* Left Section */}
-        <div className="w-full lg:w-6/12  font-light pl-10 pr-5 h-full flex flex-col justify-around">
+        <div className="w-full lg:w-6/12  font-light pl-8 pr-8 h-full flex flex-col justify-around">
         <div className="flex justify-start items-center font-semibold">
             <img src="/static/star.png" alt="Star" className="w-5 h-5 mr-2" />
             <div className="flex justify-start items-center font-semibold">
