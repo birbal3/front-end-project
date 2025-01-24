@@ -9,24 +9,24 @@ const MainDiv = () => {
 
   return (
     <section className="relative h-[65%] w-full bg-gradient-to-br from-[#ffffff] via-[#fff6ea] to-[#e6eef8]">
-      {/* Background Image */}
       <div 
-        className="hidden lg:block absolute bg-right-bottom h-full bg-[url('public/static/575c56593384938ae90007101259e9d9.png')] bg-no-repeat w-full bg-[length:80%] bg-[position:right_-20%] z-[0]">
+  className="hidden lg:block absolute bg-bottom h-full bg-[url('public/static/575c56593384938ae90007101259e9d9.png')] bg-no-repeat w-full bg-[length:80%] bg-[position:bottom] z-[0]">
+      </div>
+      
+      <div 
+        className="hidden lg:block absolute bg-bottom h-full bg-[url('/static/hero_img.png')] bg-no-repeat w-[40%] bg-[length:auto_80%] bg-[position:bottom_right] z-[0] right-0">
+      </div>
+      
+      <div 
+        className="hidden lg:block absolute bg-bottom h-full bg-[url('/static/image.png')] bg-no-repeat w-[25%] bg-[length:auto_25%] bg-[position:bottom_right] z-[0] right-0">
       </div>
 
-      <div 
-        className="hidden lg:block absolute bg-right h-full bg-[url('/static/hero_img.png')] bg-no-repeat w-full bg-[length:auto_80%] bg-[position:right_100%] z-[0]">
-      </div>
-      <div 
-        className="hidden lg:block absolute bg-right h-full bg-[url('/static/image.png')] bg-no-repeat w-full bg-[length:auto_25%] bg-[position:right_100%] z-[0]">
-      </div>
 
 
 
-
-      {/* Right and Left Sections */}
+   
       <div className="h-full w-full flex justify-between ">
-        {/* Left Section */}
+
         <div className="w-full lg:w-6/12  font-light pl-10 h-full flex flex-col justify-around">
         <div className="flex justify-start items-center font-semibold">
             <img src="/static/star.png" alt="Star" className="w-5 h-5 mr-2" />
@@ -54,7 +54,7 @@ const MainDiv = () => {
             other legal matters.
           </p>
 
-          {/* Stats Container */}
+         
           <div className="flex justify-between font-medium flex-wrap md:flex-nowrap">
             <div className="flex justify-center items-center space-x-4 ">
               <div>
@@ -92,7 +92,7 @@ const MainDiv = () => {
             </div>
           </div>
 
-          {/* Talk to and see work button */}
+         
           <div className="flex justify-start space-x-8">
             <button className={"bg-[#1c4670] text-slate-50 pl-8 pr-8 pt-2 pb-2 rounded-md font-semibold text-center shadow-md"}>Talk an Expert</button>
             <button className="flex justify-between items-center space-x-2 cursor-pointer pd-2">
@@ -102,7 +102,7 @@ const MainDiv = () => {
           </div>
         </div>
 
-        {/* Right Section */}
+    
         <div className="hidden lg:w-[40%] xl:w-[15%] w-full md:flex md:flex-col mt-10 justify-start space-y-5 z-[1]"> 
           <div className="pb-2 pt-2 pr-5 pl-5 rounded-l-xl bg-white shadow-md cursor-pointer">
             Annual Compliance
