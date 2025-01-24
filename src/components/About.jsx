@@ -67,7 +67,7 @@ const About = () => {
       </div>
     </section>
     <section className="bg-gray-50 py-12 flex justify-end gap-2 w-full flex-wrap">
-    <div className="md:w-[45%] w-full">
+    <div className="md:w-[45%] w-full ml-4">
       <h2 className="text-yellow-500 text-sm tracking-wide uppercase">
         Why RegisterKaro.in
       </h2>
