@@ -38,29 +38,29 @@ const ContectUs = () => {
           <img
             src="static/coinbase.png"
             alt="Coinbase"
-            className="h-10"
+            className="h-10 pl-2"
           />
           <img
             src="static/spotify.png"
             alt="Spotify"
-            className="h-10"
+            className="h-10 pl-4"
           />
           
           <img
             src="/static/Pasted Graphic 49.png"
             alt="Coinbase"
-            className="h-10"
+            className="h-10 pl-4"
           />
           <img
             src="/static/webflow.png"
             alt="Spotify"
-            className="h-10"
+            className="h-10 pl-4"
           />
           
           <img
             src="/static/Pasted Graphic 52.png"
             alt="Coinbase"
-            className="h-10"
+            className="h-10 pl-4"
           />
           
           
