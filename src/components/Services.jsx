@@ -60,12 +60,12 @@ const Services = () => {
         <img
           src="/static/morpheus.png"
           alt="morpheus"
-          className="h-4 m-5"
+          className="h-7 m-5"
         />
         <img
           src="static/monday.png"
           alt="Monday"
-          className="h-4 m-5"
+          className="h-7 m-5"
         />
         <img
           src="/static/SAMSUNG.png"
