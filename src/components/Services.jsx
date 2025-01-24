@@ -47,7 +47,7 @@ const Services = () => {
 
   return (
     <>
-    <section className="flex flex-col justify-between p-10">
+    <section className="flex flex-col justify-between  pt-10 pb-2">
       <div className="text-center font-bold text-lg">
         Trusted By Over 100+ Startups and freelance business
       </div>
