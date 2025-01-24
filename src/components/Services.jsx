@@ -51,31 +51,31 @@ const Services = () => {
       <div className="text-center font-bold text-lg">
         Trusted By Over 100+ Startups and freelance business
       </div>
-      <div className="flex justify-evenly items-center flex-wrap p-5">
+      <div className="flex justify-evenly items-center flex-wrap p-5 ">
         <img
           src="static/oracle.png"
           alt="oracle"
-          className="h-4"
+          className="h-4 m-5"
         />
         <img
           src="/static/morpheus.png"
           alt="morpheus"
-          className="h-6"
+          className="h-4 m-5"
         />
         <img
           src="static/monday.png"
           alt="Monday"
-          className="h-6"
+          className="h-4 m-5"
         />
         <img
           src="/static/SAMSUNG.png"
           alt="SAMSUNG"
-          className="h-4"
+         className="h-4 m-5"
         />
         <img
           src="/static/Pasted Graphic 3.png"
           alt="SAMSUNG"
-          className="h-7"
+          className="h-7 m-5"
         />
       </div>
     </section>
